@@ -1,1 +1,1 @@
-# Church
+# ChurchScheduler
